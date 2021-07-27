@@ -1,0 +1,14 @@
+{
+  "name": "intrcptr",
+  "version": "1.0.0",
+  "description": "somewhat devious request sniffer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danny wamuya",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}

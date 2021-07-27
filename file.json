@@ -1,0 +1,304 @@
+[
+    {
+      "name": "kameme",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/aac"
+      },
+      "url": "https://node-27.zeno.fm/frsvy955puquv?rj-ttl=5&rj-tok=AAABeugCiiEAxyNQp9YvkLYJ0w"
+    },
+    {
+      "name": "ghetto",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "no name",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-14.zeno.fm/t2wky7h647zuv?rj-ttl=5&rj-tok=AAABeugCl-QAd-3ywuAX3DNrdg"
+    },
+    {
+      "name": "hbr",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-29.zeno.fm/hhkd1ubrb2zuv.aac?rj-ttl=5&rj-tok=AAABeugCp_0A3VfHeN5f3cBtQg"
+    },
+    {
+      "name": "capital",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "pragma": "no-cache",
+        "date": "Tue, 27 Jul 2021 12:38:53 GMT",
+        "icy-name": "Capital FM Kenya",
+        "server": "Icecast 2.4.3",
+        "icy-br": "128, 128",
+        "content-type": "audio/mpeg",
+        "icy-genre": "The Best Mix of Music",
+        "icy-url": "https://www.capitalfm.co.ke/listenlive/",
+        "icy-pub": "1",
+        "ice-audio-info": "ice-samplerate=44100;ice-bitrate=128;ice-channels=2",
+        "icy-private": "0",
+        "icy-description": "The Best Mix of Music",
+        "cache-control": "no-cache",
+        "expires": "Mon, 26 Jul 1997 05:00:00 GMT"
+      },
+      "url": "https://icecast2.getstreamhosting.com:8050/stream.mp3"
+    },
+    {
+      "name": "waumini",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-34.zeno.fm/gvk894g072quv?rj-ttl=5&rj-tok=AAABeugC6rcACTyhm9Gpeqh6gA"
+    },
+    {
+      "name": "316",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "date": "Tue, 27 Jul 2021 12:39:15 GMT",
+        "icy-name": "no name",
+        "server": "Icecast 2.4.0-kh10",
+        "icy-br": "128, 128",
+        "access-control-allow-methods": "GET, OPTIONS, HEAD",
+        "icy-pub": "0",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache, no-store",
+        "ice-audio-info": "ice-bitrate=128;ice-channels=2;ice-samplerate=44100",
+        "connection": "Close",
+        "content-type": "audio/mpeg",
+        "access-control-allow-headers": "Origin, Accept, X-Requested-With, Content-Type",
+        "expires": "Mon, 26 Jul 1997 05:00:00 GMT"
+      },
+      "url": "https://listen-familymedia.sharp-stream.com/familymedia.mp3"
+    },
+    {
+      "name": "maisha",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-genre": "various",
+        "pragma": "no-cache",
+        "icy-name": "",
+        "server": "AIS Streaming Server 8.6.7",
+        "icy-br": "128",
+        "icy-url": "",
+        "instance-id": "288371ae5512019445cae6ea7bcf386d",
+        "cache-control": "no-cache",
+        "icy-pub": "0",
+        "connection": "close",
+        "content-type": "audio/mpeg",
+        "icy-metaint": "0",
+        "icy-description": "Unspecified description",
+        "expires": "Mon, 26 Jul 1997 05:00:00 GMT"
+      },
+      "url": "https://atunwadigital.streamguys1.com/radiomaisha"
+    },
+    {
+      "name": "bhb",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-32.zeno.fm/msrn0cy1h2zuv?rj-ttl=5&rj-tok=AAABeugDMqcAgoFrexvelxR3vA"
+    },
+    {
+      "name": "sound-asia",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-13.zeno.fm/4r40xyzkc2zuv.aac?rj-ttl=5&rj-tok=AAABeugDPPYAdPb20BmhUE-wOw"
+    },
+    {
+      "name": "maria",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-genre": "Talk",
+        "date": "Tue, 27 Jul 2021 12:39:29 GMT",
+        "icy-name": "Radio Maria Kenya - Nairobi",
+        "icy-notice2": "SHOUTcast DNAS/posix(linux x64) v2.5.5.733<BR>",
+        "icy-url": "",
+        "icy-sr": "22050",
+        "connection": "keep-alive",
+        "icy-notice1": "<BR>This stream requires <a href=\"http://www.winamp.com\">Winamp</a><BR>",
+        "x-clacks-overhead": "GNU Terry Pratchett",
+        "server": "cc-web/1.6.3",
+        "icy-br": "18",
+        "content-type": "audio/aacp",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache,no-store,must-revalidate,max-age=0",
+        "transfer-encoding": "chunked",
+        "icy-pub": "0",
+        "accept-ranges": "none"
+      },
+      "url": "https://dreamsiteradiocp5.com/proxy/rmkenyanai?mp=/stream"
+    },
+    {
+      "name": "pili-pili-99-5-fm",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-15.zeno.fm/w5gg57a5v2quv?rj-ttl=5&rj-tok=AAABeugDXCsAzK2AchgJ9KreqQ"
+    },
+    {
+      "name": "e-93",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "pragma": "no-cache",
+        "icy-name": "e 93",
+        "server": "MediaGateway 5.5.3-0357.el6",
+        "icy-br": "80",
+        "icy-url": "http://www.e93fm.com/",
+        "access-control-allow-origin": "*",
+        "icy-genre": "Urban Contemporary",
+        "access-control-allow-credentials": "true",
+        "icy-description": "Savannah's Hip Hop Station",
+        "connection": "close",
+        "content-type": "audio/mpeg",
+        "cache-control": "no-cache, must-revalidate",
+        "expires": "Thu, 01 Dec 2003 16:00:00 GMT"
+      },
+      "url": "https://24373.live.streamtheworld.com/WEASFM_SC"
+    },
+    {
+      "name": "chamgei",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-13.zeno.fm/au7un52qb2zuv.aac?rj-ttl=5&rj-tok=AAABeugDbboALDewITGJb9UpUg"
+    },
+    {
+      "name": "meru-fm",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/aac"
+      },
+      "url": "https://node-32.zeno.fm/femq5wg5v2quv?rj-ttl=5&rj-tok=AAABeugDdacAT2J48S5srrCqpw"
+    },
+    {
+      "name": "west",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-genre": "Public Radio",
+        "date": "Tue, 27 Jul 2021 12:39:42 GMT",
+        "icy-name": "WEST FM BUNGOMA - uk4 8090",
+        "icy-notice2": "SHOUTcast DNAS/posix(linux x64) v2.5.5.733<BR>",
+        "icy-url": "http://mixstream.net",
+        "icy-sr": "44100",
+        "connection": "Keep-Alive",
+        "icy-notice1": "<BR>This stream requires <a href=\"http://www.winamp.com\">Winamp</a><BR>",
+        "x-clacks-overhead": "GNU Terry Pratchett",
+        "server": "Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16",
+        "icy-br": "96",
+        "icy-pub": "0",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache,no-store,must-revalidate,max-age=0",
+        "transfer-encoding": "chunked",
+        "accept-ranges": "none",
+        "content-type": "audio/mpeg",
+        "keep-alive": "timeout=5, max=99"
+      },
+      "url": "https://uk4-vn.mixstream.net/:8090/stream/1/"
+    },
+    {
+      "name": "truth",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-34.zeno.fm/6gbuzg1kc2zuv.aac?rj-ttl=5&rj-tok=AAABeugDjs0ARBYVsPxG74CC1Q"
+    },
+    {
+      "name": "x-fm",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/mpeg"
+      },
+      "url": "https://node-01.zeno.fm/1vpwsr71h2zuv?rj-ttl=5&rj-tok=AAABeugDnQgA493DZPak-7YyxQ"
+    },
+    {
+      "name": "east-fm",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "date": "Tue, 27 Jul 2021 12:39:50 GMT",
+        "icy-name": "East FM",
+        "server": "Icecast 2.4.0-kh8-tonedetect",
+        "icy-br": "64, 64",
+        "icy-samplerate": "44100",
+        "access-control-allow-methods": "GET, OPTIONS, SOURCE, PUT, HEAD, STATS",
+        "icy-channels": "2",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache, no-store",
+        "icy-pub": "0",
+        "ice-audio-info": "ice-samplerate=44100;ice-bitrate=64;ice-channels=2",
+        "connection": "close",
+        "content-type": "audio/aac",
+        "access-control-allow-headers": "Origin, Accept, X-Requested-With, Content-Type, Icy-MetaData",
+        "expires": "Mon, 26 Jul 1997 05:00:00 GMT"
+      },
+      "url": "https://streamingv2.shoutcast.com/east-fm"
+    },
+    {
+      "name": "hero",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "icy-name": "-",
+        "content-type": "audio/aac"
+      },
+      "url": "https://node-13.zeno.fm/3a34m4r8fwzuv?rj-ttl=5&rj-tok=AAABeugDpX0AcZSuFe4tngi8dg"
+    },
+    {
+      "name": "nrg",
+      "status": 200,
+      "statusText": "OK",
+      "headers": {
+        "date": "Tue, 27 Jul 2021 12:40:07 GMT",
+        "icy-name": "no name",
+        "server": "Icecast 2.4.0-kh8-tonedetect",
+        "icy-br": "128, 128",
+        "access-control-allow-methods": "GET, OPTIONS, SOURCE, PUT, HEAD, STATS",
+        "icy-pub": "0",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache, no-store",
+        "ice-audio-info": "ice-bitrate=128;ice-channels=1;ice-samplerate=44100",
+        "connection": "close",
+        "content-type": "audio/mpeg",
+        "access-control-allow-headers": "Origin, Accept, X-Requested-With, Content-Type, Icy-MetaData",
+        "expires": "Mon, 26 Jul 1997 05:00:00 GMT"
+      },
+      "url": "https://streamingv2.shoutcast.com/nrg-radio-ke"
+    }   
+  ]
+  
